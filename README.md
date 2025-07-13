@@ -217,12 +217,3 @@ This project is evolving, and here are a few exciting things on the horizon:
 ![Avatar](frontend/public/avatar.png)
 ![Chat](frontend/public/chat.png)
 ![Logout](frontend/public/logout.png)
-
-
-
-
-
-## 📜 License
-
-
-This project is licensed under the MIT License. See the LICENSE file for more details.# full-stack_Realtime-chatApp
