@@ -206,6 +206,8 @@ This project is evolving, and here are a few exciting things on the horizon:
 ---
 
 ## 📚 Project Snapshots:
+
+![Incognito](frontend/public/incognito.png)
 ![Vite](frontend/public/vite.svg)
 ![Login](frontend/public/login.png)
 ![Dashboard](frontend/public/dashboard.png)
@@ -213,6 +215,5 @@ This project is evolving, and here are a few exciting things on the horizon:
 ![Settings](frontend/public/settings.png)
 ![Logout](frontend/public/logout.png)
 ![Access](frontend/public/acess.png)
-![Incognito](frontend/public/incognito.png)
 ![Avatar](frontend/public/avatar.png)
 ![Chat](frontend/public/chat.png)
