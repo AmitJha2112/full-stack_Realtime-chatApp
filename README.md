@@ -213,7 +213,7 @@ This project is evolving, and here are a few exciting things on the horizon:
 ![Dashboard](frontend/public/dashboard.png)
 ![Profile](frontend/public/profile.png)
 ![Settings](frontend/public/settings.png)
-![Logout](frontend/public/logout.png)
 ![Access](frontend/public/acess.png)
 ![Avatar](frontend/public/avatar.png)
 ![Chat](frontend/public/chat.png)
+![Logout](frontend/public/logout.png)
